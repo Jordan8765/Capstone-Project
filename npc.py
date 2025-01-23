@@ -16,7 +16,7 @@ class NPC(AnimatedSprite):
         self.speed = 0.03
         self.size = 20
         self.health = 100
-        self.attack_damage = 10
+        self.attack_damage = 7
         self.accuracy = 0.15
         self.alive = True
         self.pain = False
@@ -195,7 +195,7 @@ class CacoDemonNPC(NPC):
         super().__init__(game, path, pos, scale, shift, animation_time)
         self.attack_dist = 1.0
         self.health = 150
-        self.attack_damage = 20
+        self.attack_damage = 15
         self.speed = 0.02
         self.accuracy = 0.25
         
@@ -205,6 +205,6 @@ class CyberDemonNPC(NPC):
         super().__init__(game, path, pos, scale, shift, animation_time)
         self.attack_dist = 6
         self.health = 350
-        self.attack_damage = 25
+        self.attack_damage = 30
         self.speed = 0.011
-        self.accuracy = 0.05
+        self.accuracy = 0.10
