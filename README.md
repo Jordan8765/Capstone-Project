@@ -1,2 +1,2 @@
 # Capstone-Project
-map is customizable to how youd like this is the default map settings
+In map.py you can customize the layout of the map to how you'd like. 
