@@ -1,2 +1,2 @@
 # Capstone-Project
-do you think they'll play fein? 
+map is customizable to how youd like this is the default map settings
