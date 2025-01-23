@@ -1,4 +1,6 @@
 # Capstone-Project
+#IMPORTANT
+add the sound, textures and s
 In map.py you can customize the layout of the map to how you'd like. 
 You can also change the number of enemies that spawn in the object handler class (self.enemies) is the line of code.
 
