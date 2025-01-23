@@ -14,3 +14,11 @@ nerfed Caco demon damage by 5
 
 increased map size
 
+#Patch note 1.02
+
+nerfed caco demon damage by 2
+
+buffed accuracy by 0.15
+
+Finalized base map
+
