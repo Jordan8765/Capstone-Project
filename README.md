@@ -1,7 +1,9 @@
 # Capstone-Project
 #IMPORTANT
 add the sound, textures and sprites folders into another folder called resources
-#In map.py you can customize the layout of the map to how you'd like. 
+
+
+In map.py you can customize the layout of the map to how you'd like. 
 You can also change the number of enemies that spawn in the object handler class (self.enemies) is the line of code.
 
 #Patch notes 1.01
